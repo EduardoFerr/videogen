@@ -1,0 +1,90 @@
+{
+  "youtube": {
+    "label": "YouTube Padrão (16:9)",
+    "size": [1920, 1080],
+    "level": "4.2",
+    "v_bitrate": "6800k",
+    "a_bitrate": "256k",
+    "crf": null
+  },
+  "shorts": {
+    "label": "YouTube Shorts (9:16)",
+    "size": [1080, 1920],
+    "level": "4.2",
+    "v_bitrate": "6800k",
+    "a_bitrate": "192k",
+    "crf": null
+  },
+  "2k": {
+    "label": "Alta Qualidade 2K (16:9)",
+    "size": [2560, 1440],
+    "level": "5.1",
+    "v_bitrate": "6800k",
+    "a_bitrate": "256k",
+    "crf": null
+  },
+  "4k": {
+    "label": "Ultra HD 4K (16:9)",
+    "size": [3840, 2160],
+    "level": "5.2",
+    "v_bitrate": "6800k",
+    "a_bitrate": "320k",
+    "crf": null
+  },
+  "archival": {
+    "label": "Arquivo Máxima Qualidade (CRF)",
+    "size": [1920, 1080],
+    "level": "4.2",
+    "v_bitrate": null,
+    "a_bitrate": "320k",
+    "crf": "18"
+  },
+  "tiktok": {
+    "label": "TikTok (9:16)",
+    "size": [1080, 1920],
+    "level": "4.2",
+    "v_bitrate": "3500k",
+    "a_bitrate": "192k",
+    "crf": null
+  },
+  "reels": {
+    "label": "Instagram Reels (9:16)",
+    "size": [1080, 1920],
+    "level": "4.2",
+    "v_bitrate": "3500k",
+    "a_bitrate": "192k",
+    "crf": null
+  },
+  "instagram": {
+    "label": "Instagram Feed (4:5)",
+    "size": [1080, 1350],
+    "level": "4.2",
+    "v_bitrate": "3000k",
+    "a_bitrate": "192k",
+    "crf": null
+  },
+  "square": {
+    "label": "Instagram Quadrado (1:1)",
+    "size": [1080, 1080],
+    "level": "4.2",
+    "v_bitrate": "3000k",
+    "a_bitrate": "192k",
+    "crf": null
+  },
+  "mobile": {
+    "label": "Celular Leve (720p)",
+    "size": [720, 1280],
+    "level": "3.1",
+    "v_bitrate": "2500k",
+    "a_bitrate": "128k",
+    "crf": null
+  },
+  "whatsapp": {
+    "label": "WhatsApp Compacto (640x640)",
+    "size": [640, 640],
+    "level": "3.1",
+    "v_bitrate": "900k",
+    "a_bitrate": "96k",
+    "crf": null
+  }
+}

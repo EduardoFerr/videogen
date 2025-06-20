@@ -1,0 +1,53 @@
+# Ambiente virtual
+venv/
+.env/
+*.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuração de IDEs
+.vscode/
+.idea/
+
+# Arquivos gerados
+*.mp4
+*.avi
+*.mov
+*.webm
+*.mp3
+*.wav
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ttf
+*.otf
+
+# Arquivos de saída
+output/
+dist/
+build/
+*.log
+*.json
+
+# Cache do tkinter ou outros GUIs
+*.db
+*.sqlite3
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de upload temporário
+temp/
+tmp/
+
+
+#arquivos de configuração
+videos/*
+musicas/*
+config/*
+# Arquivos de configuração do Jupyter Notebook
